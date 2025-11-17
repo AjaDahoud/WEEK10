@@ -1,0 +1,14 @@
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/bin/Debug/net8.0/DecisionBasedOnBooleans
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/bin/Debug/net8.0/DecisionBasedOnBooleans.deps.json
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/bin/Debug/net8.0/DecisionBasedOnBooleans.runtimeconfig.json
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/bin/Debug/net8.0/DecisionBasedOnBooleans.dll
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/bin/Debug/net8.0/DecisionBasedOnBooleans.pdb
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.csproj.CoreCompileInputs.cache
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.dll
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/refint/DecisionBasedOnBooleans.dll
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.pdb
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/DecisionBasedOnBooleans.genruntimeconfig.cache
+/Users/aja/RiderProjects/WEEK10/DecisionBasedOnBooleans/obj/Debug/net8.0/ref/DecisionBasedOnBooleans.dll

@@ -1,0 +1,14 @@
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/bin/Debug/net8.0/ArithmeticOperations
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/bin/Debug/net8.0/ArithmeticOperations.deps.json
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/bin/Debug/net8.0/ArithmeticOperations.runtimeconfig.json
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/bin/Debug/net8.0/ArithmeticOperations.dll
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/bin/Debug/net8.0/ArithmeticOperations.pdb
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.csproj.CoreCompileInputs.cache
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.dll
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/refint/ArithmeticOperations.dll
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.pdb
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ArithmeticOperations.genruntimeconfig.cache
+/Users/aja/RiderProjects/WEEK10/ArithmeticOperations/obj/Debug/net8.0/ref/ArithmeticOperations.dll

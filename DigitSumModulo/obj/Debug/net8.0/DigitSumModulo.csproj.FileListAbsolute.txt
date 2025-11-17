@@ -1,0 +1,14 @@
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/bin/Debug/net8.0/DigitSumModulo
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/bin/Debug/net8.0/DigitSumModulo.deps.json
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/bin/Debug/net8.0/DigitSumModulo.runtimeconfig.json
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/bin/Debug/net8.0/DigitSumModulo.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/bin/Debug/net8.0/DigitSumModulo.pdb
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.csproj.CoreCompileInputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/refint/DigitSumModulo.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.pdb
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/DigitSumModulo.genruntimeconfig.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumModulo/obj/Debug/net8.0/ref/DigitSumModulo.dll

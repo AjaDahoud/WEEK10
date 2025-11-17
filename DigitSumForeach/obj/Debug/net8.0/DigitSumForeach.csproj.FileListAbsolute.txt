@@ -1,0 +1,7 @@
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/DigitSumForeach.csproj.AssemblyReference.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/Avalonia/resources
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/DigitSumForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/DigitSumForeach.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/DigitSumForeach.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach/obj/Debug/net8.0/DigitSumForeach.csproj.CoreCompileInputs.cache

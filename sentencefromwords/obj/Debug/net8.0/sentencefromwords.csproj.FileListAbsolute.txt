@@ -1,0 +1,14 @@
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/bin/Debug/net8.0/sentencefromwords
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/bin/Debug/net8.0/sentencefromwords.deps.json
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/bin/Debug/net8.0/sentencefromwords.runtimeconfig.json
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/bin/Debug/net8.0/sentencefromwords.dll
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/bin/Debug/net8.0/sentencefromwords.pdb
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.csproj.CoreCompileInputs.cache
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.dll
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/refint/sentencefromwords.dll
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.pdb
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/sentencefromwords.genruntimeconfig.cache
+/Users/aja/RiderProjects/WEEK10/sentencefromwords/obj/Debug/net8.0/ref/sentencefromwords.dll

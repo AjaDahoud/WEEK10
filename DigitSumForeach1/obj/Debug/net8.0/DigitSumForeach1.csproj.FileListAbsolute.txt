@@ -1,0 +1,14 @@
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/bin/Debug/net8.0/DigitSumForeach1
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/bin/Debug/net8.0/DigitSumForeach1.deps.json
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/bin/Debug/net8.0/DigitSumForeach1.runtimeconfig.json
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/bin/Debug/net8.0/DigitSumForeach1.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/bin/Debug/net8.0/DigitSumForeach1.pdb
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.AssemblyInfoInputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.AssemblyInfo.cs
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.csproj.CoreCompileInputs.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/refint/DigitSumForeach1.dll
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.pdb
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/DigitSumForeach1.genruntimeconfig.cache
+/Users/aja/RiderProjects/WEEK10/DigitSumForeach1/obj/Debug/net8.0/ref/DigitSumForeach1.dll
